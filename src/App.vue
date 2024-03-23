@@ -20,14 +20,14 @@ export default {
   data() {
     return {
       products: [
-        { id: 1, name: "T-Shirt", price: 100, image: "Shirt.png" },
-        { id: 2, name: "Sun Glass", price: 50,  image: "Sunglass.png" },
-        { id: 3, name: "Shoes", price: 450,  image: "Shoes.png" },
-        { id: 4, name: "Pants", price: 240,  image: "Pants.png" },
-        { id: 5, name: "Cap", price: 150,  image: "Cap.png" },
-        { id: 6, name: "Handkerchief", price: 25,  image: "Handkerchief.png" },
-        { id: 7, name: "Socks", price: 20,  image: "Socks.png" },
-        { id: 8, name: "Boxer Shorts", price: 50,  image: "Boxer.png" },
+        { id: 1, name: "Acer LiquidJade", price: 6799, image: "Acer LiquidJade.png" },
+        { id: 2, name: "iphone 15", price: 67000,  image: "iphone 15.png" },
+        { id: 3, name: "lenovo k10", price: 4500,  image: "lenovo k10.png" },
+        { id: 4, name: "nokia 3310", price: 1999,  image: "nokia 3310.png" },
+        { id: 5, name: "oppo a3", price: 3250,  image: "oppo a3.png" },
+        { id: 6, name: "realme c1", price: 3200,  image: "realme c1.png" },
+        { id: 7, name: "samsung s23", price: 6799,  image: "samsung s23.png" },
+        { id: 8, name: "vivo t1", price: 5000,  image: "vivo t1.png" },
       ],
       cart: [],
     };
